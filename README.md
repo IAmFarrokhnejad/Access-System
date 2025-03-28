@@ -48,7 +48,7 @@ A robust security system that combines password authentication via physical keyp
   ```bash
 git clone https://github.com/IAmFarrokhnejad/access-system.git
 cd access-system
-
+```
 
 2. Upload Arduino sketch:
 
@@ -62,11 +62,12 @@ cd access-system
 
   ```bash
   face_recognition, opencv-python, pyserial, numpy
+  ```
 4. Set up known faces:
 
   ```bash
 mkdir known_faces
-
+```
 
 5. Configure settings in app.py
 
@@ -77,7 +78,7 @@ mkdir known_faces
   ```bash
 python app.py
 
-
+```
 2. Keypad commands:
 
 - Digits 0-9: Password entry
