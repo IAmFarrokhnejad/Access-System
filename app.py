@@ -1,3 +1,5 @@
+# Author: Morteza Farrokhnejad
+
 import serial
 import time
 import face_recognition
