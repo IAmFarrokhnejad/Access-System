@@ -139,5 +139,5 @@ python app.py
 
 - Rotate passwords regularly for enhanced security
 
-License 📄
+## License 📄
 MIT License - See LICENSE for details
