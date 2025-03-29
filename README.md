@@ -1,4 +1,4 @@
-# Access Sysstem 🔒
+# Access System 🔒
 
 **Two-Factor Authentication System combining Arduino Keypad and Python Face Recognition**
 
