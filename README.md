@@ -52,7 +52,7 @@ cd access-system
 
 2. Upload Arduino sketch:
 
-- Open ===sketch.ino=== in Arduino IDE
+- Open "sketch.ino" in Arduino IDE
 
 - Install Keypad library (Tools > Manage Libraries)
 
